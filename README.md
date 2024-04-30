@@ -1,5 +1,5 @@
 # Ex08-Windows-basic-commands-batchscript
-### Sri Harish B 212223220110
+### PRASANNA A 212223220078
 # AIM:
 To execute Windows basic commands and batch scripting
 
@@ -77,4 +77,3 @@ Create a batch script named "BackupScript.bat" that creates a backup of files wi
 
 # RESULT:
 The commands/batch files are executed successfully.
-
